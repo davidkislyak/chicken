@@ -1,2 +1,2 @@
 # chicken
-f3 IC Prac
+f3 IC Practice
